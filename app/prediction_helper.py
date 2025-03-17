@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 # Path to the saved model and its components
-MODEL_PATH = r"C:\Users\surya\CREDIT-RISK-MODEL\artifacts\model_data.joblib"
+MODEL_PATH = r"C:\Users\surya\CREDIT-RISK-MODEL\model_data.joblib"
 
 
 # Load the model and its components
