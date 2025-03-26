@@ -6,6 +6,11 @@ This repository contains a project aimed at predicting credit risk using advance
 
 ---
 
+
+![Credit Risk Model UI](New%20folder%20(2)/Screenshot%20(95).png)
+
+
+
 ## Motivation
 
 Credit risk prediction is a crucial aspect of the financial industry. Accurate assessment of creditworthiness:
